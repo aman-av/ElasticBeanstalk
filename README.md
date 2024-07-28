@@ -1,0 +1,1 @@
+First, we created a DynamoDB table and an SNS topic that was used by our Flask application to store users' credentials and notify them using emails, respectively. We then created an IAM role and deployed our application using Elastic Beanstalk.
